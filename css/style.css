@@ -193,12 +193,14 @@ button:hover{
 
 input[type=text]{
     width: 80%;
-    color: rgb(255, 255, 255);
+    color: rgb(20, 20, 20);
     margin-left: 20px;
+    
+    
 }
 input[type=password]{
     width: 80%;
-    color: rgb(255, 255, 255);
+    color: rgb(39, 39, 39);
     margin-left: 20px;
 }
 
