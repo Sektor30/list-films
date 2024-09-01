@@ -19,7 +19,7 @@ body{
     z-index: 0;
     top: -500px;
     animation: lluvia 30s infinite alternate, opacidad 6s infinite alternate-reverse  ;
-    border: 2px solid green;
+
 }
 
 .due>img{ 
