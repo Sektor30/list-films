@@ -97,16 +97,18 @@ body{
 
 input[type=text]{
     height: 30px;
-    background: white;
+    background: #636363;
     color: rgb(0, 0, 0);
     font-size: 18px;
+    appearance: none;
     
 }
 input[type=password]{
     height: 30px;
-    background: white;
-    color: rgb(0, 0, 0);
+    background: #636363;;
+    color: rgb(0, 27, 150);
     font-size: 18px;
+    appearance: none;
     
 }
 
