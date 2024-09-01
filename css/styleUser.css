@@ -27,8 +27,20 @@ body {
 
 }
 
-#saludo{
+.icon{
+  
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  font-size: 40px;
 
+  
+
+}
+
+#saludo{
+    
+    height: 60px;
     padding: 20px auto;
     width: 80%;
     font-size: 60px;
@@ -189,7 +201,7 @@ header a{
   .contenedor{
     display: flex ;
   flex-wrap:wrap;
-  width: 70%;
+  width: 90%;
   justify-content: center;
   margin: 45px auto;
   
@@ -209,7 +221,16 @@ header a{
         
     }
 
-   
+    .icon{
+      height: 70px;
+      width: 100%;
+      text-align: center;
+      font-size: 60px;
+      padding: 4px;
+      margin: 10px auto;
+    }
+
+     
   
   }
 
@@ -228,6 +249,8 @@ header a{
         
     }
 
+    
+
   }
 
 
@@ -236,6 +259,25 @@ header a{
     body{
         width: 100% ;
 
+    }
+
+    #saludo{
+    
+      height: 180px;
+      padding: 20px auto;
+      width: 100%;
+      font-size: 60px;
+      margin: 30px auto;
+      text-align: center;
+  }
+
+    .icon{
+      
+      font-size: 60px;
+      text-align: center;
+      margin: auto;
+      width: 100%;
+    
     }
 
     .cont{
